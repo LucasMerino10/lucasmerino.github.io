@@ -1,2 +1,2 @@
 # lucasmerino.github.io
-Portfolio BTS SIO
+Exemple de site portfolio développé dans le cadre d'un cour
